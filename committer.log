@@ -121,3 +121,7 @@
 2026-02-23 14:15:42,180 - INFO - [OK] Commit created: chore: configure path aliases in tsconfig and vite.config
 2026-02-23 14:15:44,284 - INFO - Pushed to GitHub: master
 2026-02-23 14:15:45,287 - INFO - Modified 4 files
+2026-02-23 14:15:45,691 - INFO - Created commit: chore: add Storybook for component development and...
+2026-02-23 14:15:45,692 - INFO - [OK] Commit created: chore: add Storybook for component development and documentation
+2026-02-23 14:15:47,806 - INFO - Pushed to GitHub: master
+2026-02-23 14:15:48,809 - INFO - Modified 4 files
