@@ -91,7 +91,11 @@
     {
       "date": "2025-01-07T11:23:00",
       "message": "chore: set up Tailwind CSS with custom design tokens"
+    },
+    {
+      "date": "2025-01-08T16:33:00",
+      "message": "chore: add React Router for client-side routing"
     }
   ],
-  "last_commit_date": "2025-01-07T11:23:00"
+  "last_commit_date": "2025-01-08T16:33:00"
 }
