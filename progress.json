@@ -203,6 +203,10 @@
     {
       "date": "2025-01-09T12:59:00",
       "message": "chore: add bcrypt for password hashing"
+    },
+    {
+      "date": "2025-01-09T12:59:00",
+      "message": "chore: set up Redis client for caching"
     }
   ],
   "last_commit_date": "2025-01-09T12:59:00"
