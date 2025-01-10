@@ -327,6 +327,10 @@
     {
       "date": "2025-01-10T17:08:00",
       "message": "feat: create orders table with status enum"
+    },
+    {
+      "date": "2025-01-10T17:08:00",
+      "message": "feat: add order_items table with foreign key constraints"
     }
   ],
   "last_commit_date": "2025-01-10T17:08:00"
