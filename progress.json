@@ -335,6 +335,10 @@
     {
       "date": "2025-01-10T17:08:00",
       "message": "feat: create payments table with transaction tracking"
+    },
+    {
+      "date": "2025-01-10T17:08:00",
+      "message": "feat: add addresses table linked to users"
     }
   ],
   "last_commit_date": "2025-01-10T17:08:00"
