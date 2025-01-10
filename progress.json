@@ -319,6 +319,10 @@
     {
       "date": "2025-01-10T17:08:00",
       "message": "feat: create products table with full-text search index"
+    },
+    {
+      "date": "2025-01-10T17:08:00",
+      "message": "feat: add categories table with self-referential hierarchy"
     }
   ],
   "last_commit_date": "2025-01-10T17:08:00"
