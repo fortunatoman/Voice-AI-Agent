@@ -345,3 +345,7 @@
 2026-02-23 14:19:17,556 - INFO - [OK] Commit created: feat: create payments table with transaction tracking
 2026-02-23 14:19:19,754 - INFO - Pushed to GitHub: master
 2026-02-23 14:19:20,756 - INFO - Modified 4 files
+2026-02-23 14:19:21,479 - INFO - Created commit: feat: add addresses table linked to users...
+2026-02-23 14:19:21,481 - INFO - [OK] Commit created: feat: add addresses table linked to users
+2026-02-23 14:19:23,743 - INFO - Pushed to GitHub: master
+2026-02-23 14:19:24,745 - INFO - Modified 4 files
