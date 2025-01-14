@@ -463,6 +463,10 @@
     {
       "date": "2025-01-14T17:27:00",
       "message": "feat: implement backup codes for 2FA recovery"
+    },
+    {
+      "date": "2025-01-14T17:27:00",
+      "message": "feat: add role-based access control middleware"
     }
   ],
   "last_commit_date": "2025-01-14T17:27:00"
