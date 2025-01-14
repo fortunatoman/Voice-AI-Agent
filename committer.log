@@ -417,3 +417,7 @@
 2026-02-23 14:20:29,635 - INFO - [OK] Commit created: feat: create database views for order summaries
 2026-02-23 14:20:31,825 - INFO - Pushed to GitHub: master
 2026-02-23 14:20:32,827 - INFO - Modified 4 files
+2026-02-23 14:20:33,316 - INFO - Created commit: perf: add partial index for active users...
+2026-02-23 14:20:33,317 - INFO - [OK] Commit created: perf: add partial index for active users
+2026-02-23 14:20:35,486 - INFO - Pushed to GitHub: master
+2026-02-23 14:20:36,488 - INFO - Modified 4 files
