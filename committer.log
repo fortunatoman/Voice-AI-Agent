@@ -629,3 +629,7 @@
 2026-02-23 14:24:06,542 - INFO - [OK] Commit created: feat: add product export functionality
 2026-02-23 14:24:09,267 - INFO - Pushed to GitHub: master
 2026-02-23 14:24:10,270 - INFO - Modified 4 files
+2026-02-23 14:24:10,940 - INFO - Created commit: feat: implement full-text search with PostgreSQL t...
+2026-02-23 14:24:10,942 - INFO - [OK] Commit created: feat: implement full-text search with PostgreSQL tsvector
+2026-02-23 14:24:13,672 - INFO - Pushed to GitHub: master
+2026-02-23 14:24:14,674 - INFO - Modified 4 files
