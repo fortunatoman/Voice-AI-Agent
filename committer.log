@@ -633,3 +633,7 @@
 2026-02-23 14:24:10,942 - INFO - [OK] Commit created: feat: implement full-text search with PostgreSQL tsvector
 2026-02-23 14:24:13,672 - INFO - Pushed to GitHub: master
 2026-02-23 14:24:14,674 - INFO - Modified 4 files
+2026-02-23 14:24:15,025 - INFO - Created commit: feat: add product filtering by category and price ...
+2026-02-23 14:24:15,027 - INFO - [OK] Commit created: feat: add product filtering by category and price range
+2026-02-23 14:24:18,131 - INFO - Pushed to GitHub: master
+2026-02-23 14:24:19,140 - INFO - Modified 4 files
