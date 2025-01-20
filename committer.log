@@ -617,3 +617,7 @@
 2026-02-23 14:23:53,814 - INFO - [OK] Commit created: feat: implement product image reordering
 2026-02-23 14:23:56,368 - INFO - Pushed to GitHub: master
 2026-02-23 14:23:57,371 - INFO - Modified 4 files
+2026-02-23 14:23:57,748 - INFO - Created commit: feat: add product variants (size, color, etc.)...
+2026-02-23 14:23:57,749 - INFO - [OK] Commit created: feat: add product variants (size, color, etc.)
+2026-02-23 14:24:00,591 - INFO - Pushed to GitHub: master
+2026-02-23 14:24:01,593 - INFO - Modified 4 files
