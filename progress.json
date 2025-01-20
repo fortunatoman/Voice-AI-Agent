@@ -655,6 +655,10 @@
     {
       "date": "2025-01-20T14:58:00",
       "message": "feat(frontend/products): implement product variant selector"
+    },
+    {
+      "date": "2025-01-20T14:58:00",
+      "message": "feat(frontend/products): add product search bar with autocomplete"
     }
   ],
   "last_commit_date": "2025-01-20T14:58:00"
